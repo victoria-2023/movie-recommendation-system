@@ -50,12 +50,10 @@ The goal is to compare collaborative filtering approaches (KNN and matrix factor
 - For cold-start users/items, hybrid approaches (content + collaborative) would be the next step.  
 
 ## Visuals
-![RMSE Comparison](rmse_comparison.png)  <img width="567" height="435" alt="model_rmse_comparison" src="https://github.com/user-attachments/assets/96ec03f7-f30c-4b5c-9cf0-d28e5e383714" />
-
+<img width="567" height="435" alt="model_rmse_comparison" src="https://github.com/user-attachments/assets/96ec03f7-f30c-4b5c-9cf0-d28e5e383714" />
 *RMSE comparison between models*  
 
-![Precision at 10](precision_at_10.png)  <img width="576" height="435" alt="precision_at_10" src="https://github.com/user-attachments/assets/423a5c92-c82d-4553-b723-123565156b72" />
-
+ <img width="576" height="435" alt="precision_at_10" src="https://github.com/user-attachments/assets/423a5c92-c82d-4553-b723-123565156b72" />
 *Top-10 recommendation precision across models*  
 
 ## Next Steps
